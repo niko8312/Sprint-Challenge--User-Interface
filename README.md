@@ -44,9 +44,15 @@ Margin, border, padding and content
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis
+
 4. Explain why git is valuable to a team of developers.
 
+Git is valuable to a team of developers because it keeps a running track of every branch of developer and all versions of those branches which makes it easier to review code, push the changes and if need be, revert changes because of bugs that may occur.
+
 5. Define mobile-first design in your own words.
+
+Mobile-first design would focus mostly on functionality because you don't have the real estate to design as much as you could on a desktop.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
