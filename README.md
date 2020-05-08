@@ -36,7 +36,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML brings special meaning to sections of code for the developer, computer and person reading the code. These special tags help make code easier to understand and to compartmentalize blocks of code better.
+
 2. What are the 4 areas of the box model?
+
+Margin, border, padding and content
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 

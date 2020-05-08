@@ -71,6 +71,12 @@ p {
     margin: 0 auto;
 }
 
+@media(max-width: 800px){
+    .container {
+        max-width: 100%;
+    }
+}
+
 @media(max-width: 500px){
     .container {
         max-width: 100%;
@@ -135,6 +141,13 @@ a {
     margin-bottom: 4%;
 }
 
+@media(max-width: 800px){
+    .accent {
+        max-width: 100%;
+    }
+}
+
+
 @media(max-width: 500px){
     .accent {
         max-width: 100%;
@@ -152,6 +165,7 @@ a {
 @media(max-width: 800px){
     .top-content {
         flex-direction: column ;
+        padding: 0 2%;
     }
 }
 
@@ -170,6 +184,12 @@ a {
 @media(max-width: 800px){
     .top-content .text-container {
         width: 100%;
+    }
+}
+
+@media(max-width: 800px){
+    .top-content .text-container h2 {
+        font-size: 1.6rem;
     }
 }
 
@@ -300,6 +320,13 @@ a {
     }
 }
 
+@media(max-width: 800px){
+    .bottom-content .text-container h2 {
+        flex: 100%;
+        font-size: 1.6rem;
+    }
+}
+
 @media(max-width: 500px){
     .bottom-content .text-container h2 {
         flex: 100%;
@@ -326,7 +353,7 @@ a {
 
 @media(max-width: 800px){
     .bottom-content .text-container:last-child {
-        margin: 3% 25%;
+        margin: 0 25% 5% 25%;
     }
 }
 
